@@ -1,7 +1,7 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-1234
-**Name:** Dang Nguyen
+**Student ID:** 2A202600157
+**Name:** Nguyen Hai Dang
 **Date:** 2026-04-15
 
 ---
